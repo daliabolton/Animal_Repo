@@ -1,0 +1,40 @@
+.nav_buttons{
+    display: inline-block;
+    padding: 15px;
+    background-color: lightcyan;
+}
+
+#nav{
+    background-color: grey;
+}
+
+#left {
+    width: 29%;
+    float: left;
+    height: 1000px;
+    background-color: lightblue;
+    
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
+
+#right {
+    width:70%;
+    float: left;
+    height:1000px;
+    background-color: pink;
+
+}
+
+#top{
+    background-color: black;
+    padding: 15px;
+
+}
+
